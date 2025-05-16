@@ -1,0 +1,31 @@
+[
+  {
+    "id": "id_1",
+    "contents": [
+      {
+        "text": "There is a car.",
+        "type": "short",
+        "language": "en"
+      },
+      {
+        "text": "There was a new table and an old phone.",
+        "type": "short",
+        "language": "en"
+      }
+    ],
+    "date": "2025-05-05T08:07:23.635Z",
+    "inputType": "link"
+  },
+  {
+    "id": "id_2",
+    "contents": [
+      {
+        "text": "I bought a new phone there",
+        "type": "text",
+        "language": "en"
+      }
+    ],
+    "date": "2025-05-05T08:40:10.636Z",
+    "inputType": "tweet"
+  }
+]

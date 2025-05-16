@@ -1,0 +1,5 @@
+[debug] Created transactional ClassFileManager with tempDir = /Users/fabriziofinozzi/Desktop/personal_gitlab/routines/scala_spark/alert_term_extraction/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = /Users/fabriziofinozzi/Desktop/personal_gitlab/routines/scala_spark/alert_term_extraction/project/target/scala-2.12/sbt-1.0/classes.bak
+[debug] Removing the temporary directory used for backing up class files: /Users/fabriziofinozzi/Desktop/personal_gitlab/routines/scala_spark/alert_term_extraction/project/target/scala-2.12/sbt-1.0/classes.bak

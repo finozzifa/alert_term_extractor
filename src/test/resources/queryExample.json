@@ -1,0 +1,30 @@
+[
+  {
+    "id": 101,
+    "target": 1,
+    "text": "car",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": 102,
+    "target": 1,
+    "text": "table",
+    "language": "en",
+    "keepOrder": true
+  },
+  {
+    "id": 103,
+    "target": 1,
+    "text": "new phone",
+    "language": "en",
+    "keepOrder": false
+  },
+  {
+    "id": 104,
+    "target": 2,
+    "text": "tHere",
+    "language": "en",
+    "keepOrder": true
+  }
+]
